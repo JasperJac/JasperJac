@@ -18,17 +18,13 @@
 
  - 🥀 Learning Swift & Objective_C
  
- - <i>with Javascript, Typescript, React and 69 others.</i>
+ - ❤️with Javascript, Typescript, React and 69 others.
    
- - 🔭 SpaceX FanBoi, die for space
-
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
- 
  - 🌱I do fullstack and a bit of everything :heart:
  
  - 😼All About living life at its best.
  
- - 💬 Ping me by [Email](mail to:c38338490@foxmail.com)
+ - 💬 Connect me by [Email](mail to:c38338490@foxmail.com)
 
 
 <!--  -->
@@ -37,7 +33,6 @@
 ### - Languages and Tools...
 
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
    <img height="30" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
   <img height="30" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
   <img height="30" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"> 
@@ -87,9 +82,6 @@
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
   </a>
 </p>
-
-
-
 
  ### - What i do
 
