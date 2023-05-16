@@ -163,12 +163,7 @@
   <img align="left" alt="lvisei | juejin" width="45px" src="https://s3.pstatp.com/toutiao/xitu_juejin_web/img/logo.a7995ad.svg" />
 </a>
 
-<a href="https://github.com/lvisei/blog">
-  <img align="left" alt="lvisei | blog" width="100px" src="https://user-images.githubusercontent.com/26923747/96274340-f74e1280-1002-11eb-9e42-13bdc4ae1d16.png" />
-  <!--
-  <img align="left" alt="lvisei | blog" width="40px" src="https://user-images.githubusercontent.com/26923747/90339043-b9436b00-e020-11ea-9135-       2992831cc4ae.png" />
-  -->
-</a>
+
 
 
 ### Github stats
