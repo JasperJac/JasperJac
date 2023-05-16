@@ -30,8 +30,7 @@
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
- 
+ - 💬 Ping me by [Email](mail to:c38338490@foxmail.com)
  <p align="center">
   <h4> Full Stack | Competitive Programming </h4>
    </p>
@@ -122,52 +121,11 @@
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ in India</p>
+<p align="center">Made with ❤️ in Hong Kong</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-
-
-
-
-### Hi there 👋
-
-
-- 🔭  I’m currently working on Geospatial Visualization
-
-
-- 🌱  I’m now passionate about Graphics & Go Concurrency
-
-
-- 💬  WeChat: `WX_158334860`
-
-
-- 📫  Ping me by [Email](mailto:liuvigongzuoshi@foxmail.com)
-<!-- - 👯  I’m looking to collaborate on [vue-iview-admin-template](https://github.com/lvisei/vue-iview-admin-template) & [gin-admin-template](https://github.com/lvisei/gin-admin-template) -->
-
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<br>
-
-<br>
-
-
-
-
-
-
-### Github stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandiyancool&show_icons=true&locale=en&layout=compact" alt="pandiyancool" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandiyancool&show_icons=true&locale=en" alt="pandiyancool" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandiyancool&" alt="pandiyancool" /></p>
 
