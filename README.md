@@ -13,7 +13,7 @@
 <img align="right" width="480px" src="https://user-images.githubusercontent.com/26923747/94355127-00a72780-00b4-11eb-8aa0-a239d59305f4.gif" />
 
 <p align="center">
-  <h3> I'm 27 years old Full-Stack developer from Hong Kong.</h3>
+  <h3> I'm 27 years old mid-level Full-Stack developer from Hong Kong.</h3>
 </p>
 
  - 🥀 Learning Swift & Objective_C
@@ -83,7 +83,7 @@
 -->
 
 <p align="center">
-  <a href="https://dev.to/hemant">
+  <a href="https://dev.to/JasperJac">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
   </a>
 </p>
