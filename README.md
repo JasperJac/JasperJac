@@ -7,9 +7,10 @@
 
  
 
- 
+
+
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="left" alt="lvisei | blog" width="100px" src="https://user-images.githubusercontent.com/26923747/96274340-f74e1280-1002-11eb-9e42-13bdc4ae1d16.png" />
 <p align="center">
   <h3> I'm 27 years old Full-Stack developer from Hong Kong.</h3>
 </p>
